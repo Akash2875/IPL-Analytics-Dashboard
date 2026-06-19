@@ -88,7 +88,7 @@ The dashboard provides high-level tournament metrics for the selected season:
 
 ## 📷 Dashboard Preview
 
-![IPL Analysis Dashboard](IPL_Dashboard_Image.png)
+![IPL Analysis Dashboard](https://github.com/Akash2875/IPL-Analytics-Dashboard/blob/main/IPL_Dashboard_Image.png)
 
 ---
 
